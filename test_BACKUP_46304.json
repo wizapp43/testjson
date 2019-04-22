@@ -6,6 +6,7 @@
             "video" : "",
             "image" : "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?cs=srgb&dl=artistic-asphalt-automobiles-799443.jpg&fm=jpg",
              "colorRed" : "90",
+<<<<<<< HEAD
              "colorGreen" : "67",
              "colorBlue" : "8"
         },{
@@ -16,7 +17,9 @@
             "image" : "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?cs=srgb&dl=artistic-asphalt-automobiles-799443.jpg&fm=jpg",
             
              "colorBlue" : "1"
+=======
              
+>>>>>>> fdb73a7479a55fb55f6c5fd90cc4feb51dbeb231
         },{
     
             "title" : "Welcome to BIB Infinity!",
